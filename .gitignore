@@ -1,0 +1,7 @@
+*.jpg
+!samples/peoplerunning.jpg
+samples2/
+tmp/
+__pycache__
+models/
+venv/
